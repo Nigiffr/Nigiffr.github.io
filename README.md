@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Zocken</title>
     <link rel="stylesheet" href="gamer.css" />
     <link rel="stylesheet" href="../navbar/nav.css" />
     <link href="https://fonts.cdnfonts.com/css/clan-pro" rel="stylesheet" />
