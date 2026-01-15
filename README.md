@@ -46,7 +46,7 @@
         </button>
         <div class="dropdown-content">
           <a href="../../../profile.html">Homepage</a>
-          <a href="#">Nick Escher</a>
+          <a href="#">Nick Esher</a>
         </div>
       </div>
     </nav>
